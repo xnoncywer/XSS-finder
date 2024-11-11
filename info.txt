@@ -1,0 +1,1 @@
+This python tool helps web penetesters,security researchers to find if there is XSS vulnerebility in website. i'm working on this tool to make it more advanced.
